@@ -2,6 +2,14 @@
 - For making the Banking System Software
   - i have used python, oops concepts and python tkinter module.
   - tkinter module provides GUI interface for applications
+  - At first login page is implemented
+  - then main page is implemented, it consists 6 options
+  - 1 option is create account page, that takes basic information of user
+  - 2 option is deposit amount page, that is used to deposit amount
+  - 3 option is withdrawal amount page, that is used to withdrawal amount
+  - 4 option is transfer amount page, that is used to transfer amount from user account to other account
+  - 5 option is view account page, that is used to view the user's account
+  - 6 option is exit page, that is used to exit from main page to login page
   
 - For use the Banking System Software, install these required modules:
   - pip install tk
