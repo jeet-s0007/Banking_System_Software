@@ -6,6 +6,7 @@
 - For use the Banking System Software, install these required modules:
   - pip install tk
   - pip install pillow
+  - run the final code file
 
 - For testing the banking system software, 
   - I have used dummy customer or user data for testing the banking system software application
